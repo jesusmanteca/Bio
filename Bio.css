@@ -53,13 +53,3 @@ a {
     height: 200px;
     margin-right: 20px;
 }
-.xyz {
-    background-color: indianred;
-    margin-right: 20px;
-    padding: 20px 0;
-}
-#xyz {
-    background-color: lawngreen;
-    margin-right: 0;
-    text-align: center;
-}
